@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="vendor/cmsdk" name="cm_platform_sdk" remote="rr" />
+  <project path="packages/apps/ResurrectionStats" name="packages_apps_ResurrectionStats" remote="rr" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="rr" />
+  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="rr" />
+  <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="rr" />
+  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="rr" />
+  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="rr" />
+  <project path="packages/apps/StorageManager" name="android_packages_apps_StorageManager" remote="rr" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="rr" />
+  <project path="packages/apps/DUI" name="packages_apps_DUI" remote="rr" />
+  <project path="external/DUtils" name="external_DUtils" remote="rr"/>
+  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="rr" />
+  <project path="packages/apps/CMParts" name="android_packages_apps_CMParts" remote="rr"/>
+  <project path="external/google" name="android_external_google" remote="rr" />
+  <project path="frameworks/opt/cards" name="frameworks_opt_cards" remote="rr" />
+
+  <!-- OmniRom additions -->
+  <project name="android_packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="rr" />
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="rr" />
+
+  <!-- interfacer -->
+  <project name="packages_services_ThemeInterfacer" path="packages/services/ThemeInterfacer" remote="rr" />
+
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="android" name="platform_manifest" remote="gd" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="gd" />
+  <project path="frameworks/av" name="frameworks_av" remote="gd" />
+  <project path="frameworks/native" name="frameworks_native" remote="gd" />
+  <project path="system/core" name="system_core" remote="gd" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="gd" />
+  <project path="vendor/cm" name="android_vendor" remote="gd" />
+  <project path="packages/apps/ResurrectionOTA" name="packages_apps_OTA" remote="gd" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="gd" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="gd" />
+  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="gd" />
+  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="gd" />
+  <project path="external/skia" name="external_skia" remote="gd" />
+  <project path="art" name="art" remote="gd" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="gd" />
+
+</manifest>
