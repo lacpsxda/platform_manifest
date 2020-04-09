@@ -18,5 +18,6 @@
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="gd" />
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="gd" />
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="gd" />
+  <project path="device/asus/msm8916-common" name="android_device_asus_msm8916-common" remote="gd" />
 
 </manifest>
