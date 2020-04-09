@@ -16,5 +16,7 @@
   <project path="external/skia" name="external_skia" remote="gd" />
   <project path="art" name="art" remote="gd" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="gd" />
+  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="gd" />
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="gd" />
 
 </manifest>
